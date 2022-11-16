@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://meghachavan2705.github.io/csb-7kl7of/static/css/main.83b5dced.chunk.css",
+    "main.js": "https://meghachavan2705.github.io/csb-7kl7of/static/js/main.8c860f4f.chunk.js",
+    "main.js.map": "https://meghachavan2705.github.io/csb-7kl7of/static/js/main.8c860f4f.chunk.js.map",
+    "runtime-main.js": "https://meghachavan2705.github.io/csb-7kl7of/static/js/runtime-main.9d5e2620.js",
+    "runtime-main.js.map": "https://meghachavan2705.github.io/csb-7kl7of/static/js/runtime-main.9d5e2620.js.map",
+    "static/js/2.5d3b0378.chunk.js": "https://meghachavan2705.github.io/csb-7kl7of/static/js/2.5d3b0378.chunk.js",
+    "static/js/2.5d3b0378.chunk.js.map": "https://meghachavan2705.github.io/csb-7kl7of/static/js/2.5d3b0378.chunk.js.map",
+    "index.html": "https://meghachavan2705.github.io/csb-7kl7of/index.html",
+    "static/css/main.83b5dced.chunk.css.map": "https://meghachavan2705.github.io/csb-7kl7of/static/css/main.83b5dced.chunk.css.map",
+    "static/js/2.5d3b0378.chunk.js.LICENSE.txt": "https://meghachavan2705.github.io/csb-7kl7of/static/js/2.5d3b0378.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9d5e2620.js",
+    "static/js/2.5d3b0378.chunk.js",
+    "static/css/main.83b5dced.chunk.css",
+    "static/js/main.8c860f4f.chunk.js"
+  ]
+}
